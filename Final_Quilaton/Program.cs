@@ -130,7 +130,7 @@ namespace Final_Quilaton
 
             Console.Clear();
             Console.WriteLine($"YIPEEEE this is your score: {score}");
-            Console.WriteLine("\nYou can check the overall ranking in the menu! :3");
+            Console.WriteLine("\nYou can check your ranking if you return to the menu! :3");
             Console.ReadKey();
         }
     }

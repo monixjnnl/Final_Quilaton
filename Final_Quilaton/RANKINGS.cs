@@ -44,9 +44,9 @@ namespace Final_Quilaton
         {
             string caption = subject switch
             {
-                "English" => "CONGRATS! This is the overall ranking :)",
-                "Math" => "CONGRATS! This is the overall ranking :)",
-                "Science" => "CONGRATS! This is the overall ranking :)",
+                "English" => "CONGRATS! These are the English shakespeares :)",
+                "Math" => "CONGRATS! These are the Math wizards :)",
+                "Science" => "CONGRATS! These are the Science einsteins :)",
                 _ => ""
             };
 
